@@ -1,7 +1,7 @@
 # Paperclip MVP
 Participants in the Paperclip system are:  
 *Node* - IBAN account holder  
-	executes transactions on behalf of the Coordinator for a fee
+	executes transactions on behalf of the Coordinator for a fee  
 *Coordinator* - DAO (or any other more or less centralized organization that instantiates the system)
 	facilitates all the transactions, manages deposited collateral and fee payouts  
 *User* - user of services  
