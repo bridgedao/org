@@ -1,16 +1,16 @@
 # Paperclip MVP
-Participants in the Paperclip system are:
-*Node* - IBAN account holder
+Participants in the Paperclip system are:  
+*Node* - IBAN account holder  
 	executes transactions on behalf of the Coordinator for a fee
 *Coordinator* - DAO (or any other more or less centralized organization that instantiates the system)
 	facilitates all the transactions, manages deposited collateral and fee payouts
-*User* - user of services
+*User* - user of services  
 	transacts with other users or DAO, pays the fee
-*Services* - banks, etc.
+*Services* - banks, etc.  
 	provide platform for fiat transactions for a fee
-*Arbitrator* - dispute resolution service
+*Arbitrator* - dispute resolution service  
 	solves any disputes for a fee - possible collaboration with Kleros or Aragon decentralized court
-*Oracle* - source for off chain transactions verifications
+*Oracle* - source for off chain transactions verifications  
 	provides confirmation of fiat transactions for a fee
 
 Paperclip enables a Coordinator to facilitate fiat transactions on behalf of Users by commissioning and paying Nodes to execute these transactions using their own bank accounts (Services). This enables any entity to use services without having to use their standard interface. Explicitly, a business doesn’t need a bank account or any other relationship with a bank to transact with electronic fiat money. This service at its base is legislation agnostic, but rules and actions can be implemented which would enable AML and KYC compliance if necessary.
