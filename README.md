@@ -15,6 +15,8 @@ The governing body in charge of the project. Home of research papers, discussion
 # Paperclip Lite
 *Trustless fiat interface for popular common business services and expenses of smart contracts.*
 
+![Flow comparison](Flow%20comparison.png)
+
 ## Claims:
 **1. Trustless:** there is no single trusted intermediary, behaviour of the network is predefined and enforced by smart contract  
 **2. Safe:** all transactions are overcollateralized in DAI and held by a smart contract  
